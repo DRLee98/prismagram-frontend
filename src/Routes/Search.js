@@ -1,2 +1,2 @@
 /* eslint-disable import/no-anonymous-default-export */
-export default () => "Post";
+export default () => "Search";
